@@ -3,7 +3,7 @@ layout: post
 title: Creando ruido blanco
 ---
 
-<p align = "justify">En esta entrada introduciremos el ruido blanco y los procesos de Wiener (o movimientos brownianos), y veremos como simularlos. Los objetivos de este minicurso pueden <a href = "https://uliseschialva.github.io/noisy-tutorial-0/">encontralos aquí</a> .</p>
+<p align = "justify">En esta entrada introduciremos el ruido blanco y los procesos de Wiener (o movimientos brownianos), y veremos como simularlos. </p>
 
 <p align = "justify">SPOILER ALERT: no asustarse con la primera definición. Hay que darla sí o sí, lo jugoso y programable viene después.</p>
 
